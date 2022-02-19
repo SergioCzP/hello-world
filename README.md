@@ -1,2 +1,3 @@
 # hello-world
-Simple repository
+# Notes:
+This is my first time using github. :D
